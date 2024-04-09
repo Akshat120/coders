@@ -1,0 +1,4 @@
+github.com/dcowgill/envflag v1.1.0 h1:leWjtc/ZBCpYAj0CwTSK9MfzmWI5cblyQ8JbUWvT9kw=
+github.com/dcowgill/envflag v1.1.0/go.mod h1:ORkAAPrdrhTT/sIIkzTJF3jiyw+2PnXLwSTC6eIuUsg=
+github.com/google/subcommands v1.2.0 h1:vWQspBTo2nEqTUFita5/KeEWlUL8kQObDFbub/EN9oE=
+github.com/google/subcommands v1.2.0/go.mod h1:ZjhPrFU+Olkh9WazFPsl27BQ4UPiG37m3yTrtFlrHVk=
